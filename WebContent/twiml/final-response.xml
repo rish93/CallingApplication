@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+	 <Say voice="Polly.Raveena" language="en-US" >Thank you for your time, Appreciate a lot!</Say>
+	 <Say voice="Polly.Raveena" language="en-US" >Bye Have a good day!</Say>
+	 
+</Response>

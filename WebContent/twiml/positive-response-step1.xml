@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+   
+   
+ <Gather input ="speech" partialResultCallback="https://301e10ec.ngrok.io/partialPostiveStep2" action="https://301e10ec.ngrok.io/voice" transcribe="true" method="POST">
+   
+     <Say voice="Polly.Raveena" language="en-US" >Which company you are employed to?</Say>
+</Gather>
+
+</Response>

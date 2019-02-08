@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+   <Gather input ="speech" partialResultCallback="https://301e10ec.ngrok.io/averageResponse"  transcribe="true" method="POST">
+  
+     <Say voice="Polly.Raveena" language="en-US">Okay when i can call you later</Say>
+
+</Gather>
+</Response> 
